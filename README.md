@@ -1,4 +1,4 @@
-## 🌶️ Python Script for HANA Database Connectivity and Excel Export 📊
+## Python Script for HANA Database Connectivity and Excel Export 📊
 Welcome to the Python script for connecting to HANA databases and exporting results to Excel sheets! This script is designed to seamlessly handle high volumes of data by dynamically distributing them across multiple sheets in Excel.
 
 ## 🔥 Features:
